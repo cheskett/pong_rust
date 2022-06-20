@@ -2,7 +2,8 @@
 name = "pong_rust"
 version = "0.1.0"
 edition = "2021"
-authors = ["Cameron Heskett"] 
+authors = ["Cameron Heskett"]
 
 [dependencies]
-ggez = "0.7"
+ggez = "0.8.0-rc0"
+glam = "0.20.5"
